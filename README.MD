@@ -1,4 +1,4 @@
-# About Project
+# BikeBuddy-Rental-Bike-Sharing-Prediction-System
 
 **Project Description**
 
