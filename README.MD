@@ -63,7 +63,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 
 ## Project screenshot
 
-** Daily Based Dataset Count 
+** Daily Based Dataset Count **
 <center> <img src="static/day.jpg"> </center>
 
 
