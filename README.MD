@@ -67,6 +67,6 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 <center> <img src="static/day.jpg"> </center>
 
 
-** Hourly Based Dataset Count 
+**Hourly Based Dataset Count** 
 <center> <img src="static/hr.jpg"> </center>
 
