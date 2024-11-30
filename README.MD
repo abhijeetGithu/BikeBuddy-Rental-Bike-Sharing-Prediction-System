@@ -61,7 +61,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 	- cnt: count of total rental bikes including both casual and registered
 
 
-## Project snapshot
+## Project screenshot
 
 ** Daily Based Dataset Count 
 <center> <img src="static/day.jpg"> </center>
